@@ -1,3 +1,10 @@
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/f1c9cbda-37b0-43da-9295-6f179eaecc2e" />
+
+
+
+
+
+
 # Regression for Energy Prediction
 
 This project demonstrates the implementation of a **supervised learning procedure** to predict the energy requirements of a **machining (milling) process**. By using machine learning, the goal is to create transparency in energy planning, optimise process parameters, and enable effective load management.
@@ -32,8 +39,11 @@ The model utilises data gathered from tests on a milling machine, controlled alo
 ## Results
 A comparison of the models shows that the **Random Forest Regressor is the most accurate** for this dataset, as it produced the smallest error values. The Linear Regression and Support Vector Regression models showed significantly higher errors in comparison. 
 
+https://github.com/6haiderm/ML_Energy_Prediction/blob/main/Notebook/Regression_for_Energy_Prediction.ipynb
+
 
 ## I used VS code, Python to push the files to my GitHub Repository.
+
 
 
 
