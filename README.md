@@ -32,17 +32,8 @@ The model utilises data gathered from tests on a milling machine, controlled alo
 ## Results
 A comparison of the models shows that the **Random Forest Regressor is the most accurate** for this dataset, as it produced the smallest error values. The Linear Regression and Support Vector Regression models showed significantly higher errors in comparison. 
 
-*Note: In the context of this project, "parameters" are determined during training (e.g., weights), while "hyperparameters" (e.g., the number of trees in a Random Forest) are adjusted to optimise performance.*
-===Project#1  Supervised Learning: Using different Regression Models for Energy prediction
-
-Energy requirement for the milling process was predicted using three different models i.e. Linear Regression, Support Vector Machines, and Random Forest Generator. 
-Different errors were calculated and all models were compared. 
-
-​**Google Collab environment was used and many Python libraries such as Scikitlearn, Keras, Tenser Flow were implemented in both projects. Further information is given in below links.
-
-
---https://colab.research.google.com/drive/16fyqszTYamwr-aNvwoVoXkXdrXjKHWD9?usp=sharing (Project # 1)
 
 ## I used VS code, Python to push the files to my GitHub Repository.
-## Also, you can use the above-provided link to check the Google Collab Notebook.
+
+
 
